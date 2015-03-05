@@ -10,5 +10,8 @@ Firefox OSアプリのHello Worldとして、カメラ入力（getUserMedia）�
 
 [pixi.js](https://github.com/GoodBoyDigital/pixi.js/)と[neume.js](https://github.com/mohayonao/neume.js/)を使っています。
 
+[flame](http://www.mozilla.jp/firefox/os/devices/flame/)で動作確認してます。
+調整してないのでフレームレート悪いです。。。（処理的に20fps以上でないように書いてあったりします）
+
 
 
