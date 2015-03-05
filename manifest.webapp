@@ -13,7 +13,7 @@
   "type":"web",
   "permissions": {
     "video-capture": {
-      "description": "Required to capture audio via getUserMedia"
+      "description": "Required to capture video via getUserMedia"
     }
   },
   "orientation":["portrait-primary"]
