@@ -1,0 +1,20 @@
+{
+  "name": "CamSounder",
+  "description": "Sounds from Camera",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/camsounder.png"
+  },
+  "developer": {
+    "name": "D.F.Mac. @TripArts Music",
+    "url": "http://soundcloud.com/tadfmac/"
+  },
+  "default_locale": "en",
+  "type":"web",
+  "permissions": {
+    "video-capture": {
+      "description": "Required to capture audio via getUserMedia"
+    }
+  },
+  "orientation":["portrait-primary"]
+}
